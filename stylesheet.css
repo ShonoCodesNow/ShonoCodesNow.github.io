@@ -59,7 +59,7 @@ a:hover{
 .headshot{
     z-index: 0;
     position: absolute;
-    width: 50%;
+    width: 40%;
     padding:0px;
     border-right: 50px solid #FF6B6B;
     border-top: 50px solid #FF6B6B;
