@@ -26,14 +26,14 @@ h2{
 h3{
     font-family: 'Montserrat', sans-serif;
     color:#FF6B6B;
-    font-size: Large;
+    font-size: 1.5em;
     margin: 0px;
 }
 
 a{
     color:#FF6B6B;
     font-family: 'Montserrat', sans-serif;
-    font-size: Large;
+    font-size: 1.5em;
     margin: 0px;
 
 }
@@ -41,7 +41,7 @@ a{
 a:hover{
     color:#b2ffa9;
     font-family: 'Montserrat', sans-serif;
-    font-size: Large;
+    font-size: 1.5em;
     margin:0px;
 
 }
@@ -89,13 +89,13 @@ img{
 .test{
     position:  absolute;
     width: 40%;
-    left: 45%;
+    left: 42%;
 
 }
 
 .links{
     position: absolute;
-    left: 45%;
+    left: 42%;
     bottom: 0%;
 }
 
