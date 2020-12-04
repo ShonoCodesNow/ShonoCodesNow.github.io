@@ -9,14 +9,14 @@ body{
 }
 
 h1{
-    font-size:100%;
+    font-size:300%;
     font-family: 'Bungee Shade', cursive;
     color: #FF6B6B;
     margin: 0px;
     line-height: 100%;
 }
 h2{ 
-    font-size: 100%;
+    font-size: 300%;
     font-family: 'Bungee Shade', cursive;
     color: #b2ffa9;
     margin:0px;
@@ -26,14 +26,14 @@ h2{
 h3{
     font-family: 'Montserrat', sans-serif;
     color:#FF6B6B;
-    font-size: 50%;
+    font-size: Large;
     margin: 0px;
 }
 
 a{
     color:#FF6B6B;
     font-family: 'Montserrat', sans-serif;
-    font-size: 50%;
+    font-size: Large;
     margin: 0px;
 
 }
@@ -41,7 +41,7 @@ a{
 a:hover{
     color:#b2ffa9;
     font-family: 'Montserrat', sans-serif;
-    font-size: 50%;
+    font-size: Large;
     margin:0px;
 
 }
