@@ -9,14 +9,14 @@ body{
 }
 
 h1{
-    font-size:10em;
+    font-size:600%;
     font-family: 'Bungee Shade', cursive;
     color: #FF6B6B;
     margin: 0px;
     line-height: 100%;
 }
 h2{ 
-    font-size: 10em;
+    font-size: 600%;
     font-family: 'Bungee Shade', cursive;
     color: #b2ffa9;
     margin:0px;
@@ -89,13 +89,13 @@ img{
 .test{
     position:  absolute;
     width: 40%;
-    left: 42%;
+    left: 41%;
 
 }
 
 .links{
     position: absolute;
-    left: 42%;
+    left: 41%;
     bottom: 0%;
 }
 
