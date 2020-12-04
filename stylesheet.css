@@ -9,14 +9,14 @@ body{
 }
 
 h1{
-    font-size:2500%;
+    font-size:100%;
     font-family: 'Bungee Shade', cursive;
     color: #FF6B6B;
     margin: 0px;
     line-height: 100%;
 }
 h2{ 
-    font-size: 2500%;
+    font-size: 100%;
     font-family: 'Bungee Shade', cursive;
     color: #b2ffa9;
     margin:0px;
@@ -33,7 +33,7 @@ h3{
 a{
     color:#FF6B6B;
     font-family: 'Montserrat', sans-serif;
-    font-size: 1000%;
+    font-size: 50%;
     margin: 0px;
 
 }
@@ -41,7 +41,7 @@ a{
 a:hover{
     color:#b2ffa9;
     font-family: 'Montserrat', sans-serif;
-    font-size: 1000%;
+    font-size: 50%;
     margin:0px;
 
 }
