@@ -73,8 +73,8 @@ a:hover{
     border-top: 10px solid #b2ffa9;
     position: absolute;
     display:block;
-    top:30px;
-    right:30px;
+    top:20px;
+    right:20px;
     bottom:0px;
     left: 0px;
     pointer-events: none;
@@ -89,13 +89,13 @@ img{
 .test{
     position:  absolute;
     width: 40%;
-    left: 55%;
+    left: 45%;
 
 }
 
 .links{
     position: absolute;
-    left: 55%;
+    left: 45%;
     bottom: 0%;
 }
 
