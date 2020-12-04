@@ -61,8 +61,8 @@ a:hover{
     position: absolute;
     width: 50%;
     padding:0px;
-    border-right: 100px solid #FF6B6B;
-    border-top: 100px solid #FF6B6B;
+    border-right: 50px solid #FF6B6B;
+    border-top: 50px solid #FF6B6B;
     margin: 0 auto;
 }
 
