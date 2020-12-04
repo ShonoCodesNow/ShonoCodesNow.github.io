@@ -35,6 +35,7 @@ a{
     font-family: 'Montserrat', sans-serif;
     font-size: 4em;
     margin: 0px;
+    text-decoration: none;
 
 }
 
@@ -43,6 +44,7 @@ a:hover{
     font-family: 'Montserrat', sans-serif;
     font-size: 4em;
     margin:0px;
+    text-decoration: none;
 
 }
 
